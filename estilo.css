@@ -385,6 +385,7 @@ nav ul li a.ativo {
     gap: 10px;
 }
 
+
 .produto {
     width: 274px;
     height: 350px;
@@ -408,7 +409,6 @@ nav ul li a.ativo {
 .produto-info {
     padding: 0px;
 }
-
 
 .produto-preco {
     display: flex;
